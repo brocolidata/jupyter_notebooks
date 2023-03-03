@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+
+  jupyter_notebooks:
+    image: brocolidata/jupyter_notebooks
+    build: .
+    container_name: jupyter_notebooks
+    volumes:
+      - ../:/jupyter_lab
+    
+    working_dir: /jupyter_lab/notebooks
+    stdin_open: true
+    tty: true
