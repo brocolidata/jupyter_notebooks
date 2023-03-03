@@ -1,0 +1,36 @@
+
+files_list:
+  IPC_2020: 
+    file_name : "indice_des_prix_2020.xlsx"
+    nb_cols: 3
+  IPC_2021: 
+    file_name : "indice_des_prix_2021.xlsx"
+    nb_cols: 4
+  IPC_2022: 
+    file_name : "indice_des_prix_2022.xlsx"
+    nb_cols: 4
+
+worksheet_names:
+  total: "Nat"
+  cities:
+    - "Agad"
+    - "casa"
+    - "fes"
+    - "kenit"
+    - "marrak"
+    - "oujd"
+    - "rab7"
+    - "tetou"
+    - "mek"
+    - "tang"
+    - "laay"
+    - "dakh"
+    - "guel"
+    - "sett"
+    - "saf"
+    - "beni mel"
+    - "al hoceima"
+    - "errachidia"
+
+skiprows_end: 8
+skipfooter: 6
