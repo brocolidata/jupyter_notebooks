@@ -1,0 +1,36 @@
+
+files_list:
+  IPC_2020: 
+    file_name : "indice_des_prix_2020.xlsx"
+    nb_cols: 3
+  IPC_2021: 
+    file_name : "indice_des_prix_2021.xlsx"
+    nb_cols: 4
+  IPC_2022: 
+    file_name : "indice_des_prix_2022.xlsx"
+    nb_cols: 4
+
+worksheet_names:
+  total: "Nat"
+  cities:
+    Agad: "Agadir"
+    casa: "Casablanca"
+    fes: "Fès"
+    kenit: "Kénitra"
+    marrak: "Marrakech"
+    oujd: "Oujda"
+    rab7: "Rabat"
+    tetou: "Tétouan"
+    mek: "Meknès"
+    tang: "Tanger"
+    laay: "Laâyoune"
+    dakh: "Dakhla"
+    guel: "Guelmim"
+    sett: "Settat"
+    saf: "Safi"
+    beni mel: "Béni Mellal"
+    al hoceima: "Al Hoceima"
+    errachidia: "Errachidia"
+
+skiprows_end: 8
+skipfooter: 6
