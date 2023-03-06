@@ -10,3 +10,4 @@ ipywidgets>=8.0
 duckdb-engine>=0.6
 jupysql>=0.6
 plotly>=5.13
+pygwalker>=0.1
