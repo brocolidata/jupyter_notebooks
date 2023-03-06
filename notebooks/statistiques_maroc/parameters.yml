@@ -31,6 +31,18 @@ worksheet_names:
     beni mel: "Béni Mellal"
     al hoceima: "Al Hoceima"
     errachidia: "Errachidia"
+  prices:
+    product:
+      sheet_name: "t 21"
+      dataset_name: "prix_moyen_produits_casablanca"
+    services:  
+      sheet_name: "t 22"
+      dataset_name: "prix_moyen_services_casablanca"
+
+produit_column_name: "produit"
+prix_produit_column_name: "en_DH"
+unite_column_name: "unite"
+
 
 skiprows_end: 8
 skipfooter: 6
