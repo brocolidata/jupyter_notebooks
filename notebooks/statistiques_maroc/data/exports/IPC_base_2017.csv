@@ -1,0 +1,276 @@
+produit,value,year,code,parent_code,type_produit
+Produits alimentaires et boissons non alcoolisées,100.0,2017,01,,division
+Produits alimentaires et boissons non alcoolisées,102.0,2018,01,,division
+Produits alimentaires et boissons non alcoolisées,100.5999984741211,2019,01,,division
+Produits alimentaires et boissons non alcoolisées,101.5999984741211,2020,01,,division
+Produits alimentaires et boissons non alcoolisées,102.19999694824219,2021,01,,division
+Produits alimentaires,100.0,2017,011,01,groupe
+Produits alimentaires,102.0999984741211,2018,011,01,groupe
+Produits alimentaires,100.69999694824219,2019,011,01,groupe
+Produits alimentaires,101.69999694824219,2020,011,01,groupe
+Produits alimentaires,102.4000015258789,2021,011,01,groupe
+Boissons non alcoolisées,100.0,2017,012,01,groupe
+Boissons non alcoolisées,99.69999694824219,2018,012,01,groupe
+Boissons non alcoolisées,99.4000015258789,2019,012,01,groupe
+Boissons non alcoolisées,99.4000015258789,2020,012,01,groupe
+Boissons non alcoolisées,99.4000015258789,2021,012,01,groupe
+Boissons alcoolisées et tabac,100.0,2017,02,,division
+Boissons alcoolisées et tabac,108.4000015258789,2018,02,,division
+Boissons alcoolisées et tabac,120.19999694824219,2019,02,,division
+Boissons alcoolisées et tabac,121.19999694824219,2020,02,,division
+Boissons alcoolisées et tabac,125.5,2021,02,,division
+Boissons alcoolisées,100.0,2017,021,02,groupe
+Boissons alcoolisées,101.4000015258789,2018,021,02,groupe
+Boissons alcoolisées,100.5999984741211,2019,021,02,groupe
+Boissons alcoolisées,99.80000305175781,2020,021,02,groupe
+Boissons alcoolisées,102.4000015258789,2021,021,02,groupe
+Tabac,100.0,2017,022,02,groupe
+Tabac,108.69999694824219,2018,022,02,groupe
+Tabac,121.0,2019,022,02,groupe
+Tabac,122.0999984741211,2020,022,02,groupe
+Tabac,126.4000015258789,2021,022,02,groupe
+Articles d'habillement et chaussures,100.0,2017,03,,division
+Articles d'habillement et chaussures,101.19999694824219,2018,03,,division
+Articles d'habillement et chaussures,102.4000015258789,2019,03,,division
+Articles d'habillement et chaussures,102.69999694824219,2020,03,,division
+Articles d'habillement et chaussures,104.69999694824219,2021,03,,division
+Articles d'habillement,100.0,2017,031,03,groupe
+Articles d'habillement,100.9000015258789,2018,031,03,groupe
+Articles d'habillement,101.9000015258789,2019,031,03,groupe
+Articles d'habillement,102.30000305175781,2020,031,03,groupe
+Articles d'habillement,104.19999694824219,2021,031,03,groupe
+Chaussures,100.0,2017,032,03,groupe
+Chaussures,102.4000015258789,2018,032,03,groupe
+Chaussures,104.5999984741211,2019,032,03,groupe
+Chaussures,104.5999984741211,2020,032,03,groupe
+Chaussures,107.0,2021,032,03,groupe
+"Logement, eau, électricité, gaz et autres combustibles",100.0,2017,04,,division
+"Logement, eau, électricité, gaz et autres combustibles",100.5,2018,04,,division
+"Logement, eau, électricité, gaz et autres combustibles",101.19999694824219,2019,04,,division
+"Logement, eau, électricité, gaz et autres combustibles",101.80000305175781,2020,04,,division
+"Logement, eau, électricité, gaz et autres combustibles",102.5999984741211,2021,04,,division
+Loyers effectifs,100.0,2017,041,04,groupe
+Loyers effectifs,100.30000305175781,2018,041,04,groupe
+Loyers effectifs,101.4000015258789,2019,041,04,groupe
+Loyers effectifs,102.5999984741211,2020,041,04,groupe
+Loyers effectifs,104.19999694824219,2021,041,04,groupe
+Entretien et réparation des logements,100.0,2017,043,04,groupe
+Entretien et réparation des logements,102.69999694824219,2018,043,04,groupe
+Entretien et réparation des logements,105.0999984741211,2019,043,04,groupe
+Entretien et réparation des logements,107.0,2020,043,04,groupe
+Entretien et réparation des logements,109.5,2021,043,04,groupe
+Alimentation en eau et services divers liés au logement,100.0,2017,044,04,groupe
+Alimentation en eau et services divers liés au logement,100.0999984741211,2018,044,04,groupe
+Alimentation en eau et services divers liés au logement,100.0999984741211,2019,044,04,groupe
+Alimentation en eau et services divers liés au logement,100.0,2020,044,04,groupe
+Alimentation en eau et services divers liés au logement,99.9000015258789,2021,044,04,groupe
+"Electricité, gaz et autres combustibles",100.0,2017,045,04,groupe
+"Electricité, gaz et autres combustibles",100.0999984741211,2018,045,04,groupe
+"Electricité, gaz et autres combustibles",100.19999694824219,2019,045,04,groupe
+"Electricité, gaz et autres combustibles",100.30000305175781,2020,045,04,groupe
+"Electricité, gaz et autres combustibles",100.30000305175781,2021,045,04,groupe
+"Meubles, articles de ménage et entretien courant du foyer",100.0,2017,05,,division
+"Meubles, articles de ménage et entretien courant du foyer",100.19999694824219,2018,05,,division
+"Meubles, articles de ménage et entretien courant du foyer",100.5999984741211,2019,05,,division
+"Meubles, articles de ménage et entretien courant du foyer",100.80000305175781,2020,05,,division
+"Meubles, articles de ménage et entretien courant du foyer",101.9000015258789,2021,05,,division
+Articles de ménage en textiles,100.0,2017,052,05,groupe
+Articles de ménage en textiles,101.4000015258789,2018,052,05,groupe
+Articles de ménage en textiles,101.9000015258789,2019,052,05,groupe
+Articles de ménage en textiles,101.9000015258789,2020,052,05,groupe
+Articles de ménage en textiles,103.0999984741211,2021,052,05,groupe
+Appareils ménagers,100.0,2017,053,05,groupe
+Appareils ménagers,99.9000015258789,2018,053,05,groupe
+Appareils ménagers,99.4000015258789,2019,053,05,groupe
+Appareils ménagers,98.9000015258789,2020,053,05,groupe
+Appareils ménagers,101.0999984741211,2021,053,05,groupe
+"Verrerie, vaisselle et ustensiles de ménage",100.0,2017,054,05,groupe
+"Verrerie, vaisselle et ustensiles de ménage",100.69999694824219,2018,054,05,groupe
+"Verrerie, vaisselle et ustensiles de ménage",101.9000015258789,2019,054,05,groupe
+"Verrerie, vaisselle et ustensiles de ménage",103.0,2020,054,05,groupe
+"Verrerie, vaisselle et ustensiles de ménage",105.5,2021,054,05,groupe
+Outillage et autre matériel pour la maison et le jardin,100.0,2017,055,05,groupe
+Outillage et autre matériel pour la maison et le jardin,101.0,2018,055,05,groupe
+Outillage et autre matériel pour la maison et le jardin,101.80000305175781,2019,055,05,groupe
+Outillage et autre matériel pour la maison et le jardin,102.5999984741211,2020,055,05,groupe
+Outillage et autre matériel pour la maison et le jardin,108.9000015258789,2021,055,05,groupe
+Biens et services liés à l'entretien courant du foyer,100.0,2017,056,05,groupe
+Biens et services liés à l'entretien courant du foyer,100.0,2018,056,05,groupe
+Biens et services liés à l'entretien courant du foyer,100.4000015258789,2019,056,05,groupe
+Biens et services liés à l'entretien courant du foyer,100.4000015258789,2020,056,05,groupe
+Biens et services liés à l'entretien courant du foyer,100.4000015258789,2021,056,05,groupe
+Santé,100.0,2017,06,,division
+Santé,100.19999694824219,2018,06,,division
+Santé,100.69999694824219,2019,06,,division
+Santé,101.5999984741211,2020,06,,division
+Santé,101.80000305175781,2021,06,,division
+"Produits, appareils et matériels médicaux",100.0,2017,061,06,groupe
+"Produits, appareils et matériels médicaux",99.5,2018,061,06,groupe
+"Produits, appareils et matériels médicaux",98.9000015258789,2019,061,06,groupe
+"Produits, appareils et matériels médicaux",98.30000305175781,2020,061,06,groupe
+"Produits, appareils et matériels médicaux",97.69999694824219,2021,061,06,groupe
+Services ambulatoires,100.0,2017,062,06,groupe
+Services ambulatoires,100.69999694824219,2018,062,06,groupe
+Services ambulatoires,102.4000015258789,2019,062,06,groupe
+Services ambulatoires,104.9000015258789,2020,062,06,groupe
+Services ambulatoires,105.5999984741211,2021,062,06,groupe
+Services hospitaliers,100.0,2017,063,06,groupe
+Services hospitaliers,100.5,2018,063,06,groupe
+Services hospitaliers,100.4000015258789,2019,063,06,groupe
+Services hospitaliers,100.4000015258789,2020,063,06,groupe
+Services hospitaliers,100.5999984741211,2021,063,06,groupe
+Transport,100.0,2017,07,,division
+Transport,102.19999694824219,2018,07,,division
+Transport,102.4000015258789,2019,07,,division
+Transport,100.80000305175781,2020,07,,division
+Transport,106.69999694824219,2021,07,,division
+Achat de véhicules,100.0,2017,071,07,groupe
+Achat de véhicules,99.80000305175781,2018,071,07,groupe
+Achat de véhicules,100.0999984741211,2019,071,07,groupe
+Achat de véhicules,100.4000015258789,2020,071,07,groupe
+Achat de véhicules,102.5,2021,071,07,groupe
+Dépenses d'utilisation des véhicules,100.0,2017,072,07,groupe
+Dépenses d'utilisation des véhicules,103.4000015258789,2018,072,07,groupe
+Dépenses d'utilisation des véhicules,102.30000305175781,2019,072,07,groupe
+Dépenses d'utilisation des véhicules,95.30000305175781,2020,072,07,groupe
+Dépenses d'utilisation des véhicules,102.4000015258789,2021,072,07,groupe
+Services de transport,100.0,2017,073,07,groupe
+Services de transport,102.30000305175781,2018,073,07,groupe
+Services de transport,104.5999984741211,2019,073,07,groupe
+Services de transport,110.5999984741211,2020,073,07,groupe
+Services de transport,117.69999694824219,2021,073,07,groupe
+Communications,100.0,2017,08,,division
+Communications,101.0,2018,08,,division
+Communications,104.30000305175781,2019,08,,division
+Communications,103.9000015258789,2020,08,,division
+Communications,103.69999694824219,2021,08,,division
+Services postaux,100.0,2017,081,08,groupe
+Services postaux,100.0,2018,081,08,groupe
+Services postaux,100.0999984741211,2019,081,08,groupe
+Services postaux,100.0999984741211,2020,081,08,groupe
+Services postaux,100.0999984741211,2021,081,08,groupe
+Matériel de téléphonie et de télécopie,100.0,2017,082,08,groupe
+Matériel de téléphonie et de télécopie,98.0,2018,082,08,groupe
+Matériel de téléphonie et de télécopie,94.19999694824219,2019,082,08,groupe
+Matériel de téléphonie et de télécopie,91.0999984741211,2020,082,08,groupe
+Matériel de téléphonie et de télécopie,88.80000305175781,2021,082,08,groupe
+Services de téléphonie et de télécopie,100.0,2017,083,08,groupe
+Services de téléphonie et de télécopie,101.4000015258789,2018,083,08,groupe
+Services de téléphonie et de télécopie,105.5,2019,083,08,groupe
+Services de téléphonie et de télécopie,105.5,2020,083,08,groupe
+Services de téléphonie et de télécopie,105.5,2021,083,08,groupe
+Loisirs et culture,100.0,2017,09,,division
+Loisirs et culture,100.0999984741211,2018,09,,division
+Loisirs et culture,100.30000305175781,2019,09,,division
+Loisirs et culture,99.4000015258789,2020,09,,division
+Loisirs et culture,100.19999694824219,2021,09,,division
+"Matériel audiovisuel, photographique et de traitement de l'information",100.0,2017,091,09,groupe
+"Matériel audiovisuel, photographique et de traitement de l'information",99.30000305175781,2018,091,09,groupe
+"Matériel audiovisuel, photographique et de traitement de l'information",96.5999984741211,2019,091,09,groupe
+"Matériel audiovisuel, photographique et de traitement de l'information",93.0,2020,091,09,groupe
+"Matériel audiovisuel, photographique et de traitement de l'information",94.30000305175781,2021,091,09,groupe
+"Autres articles et matériel de loisirs, de jardinage et animaux de compagnie",100.0,2017,093,09,groupe
+"Autres articles et matériel de loisirs, de jardinage et animaux de compagnie",100.19999694824219,2018,093,09,groupe
+"Autres articles et matériel de loisirs, de jardinage et animaux de compagnie",101.69999694824219,2019,093,09,groupe
+"Autres articles et matériel de loisirs, de jardinage et animaux de compagnie",102.19999694824219,2020,093,09,groupe
+"Autres articles et matériel de loisirs, de jardinage et animaux de compagnie",102.19999694824219,2021,093,09,groupe
+Services récréatifs et culturels,100.0,2017,094,09,groupe
+Services récréatifs et culturels,100.4000015258789,2018,094,09,groupe
+Services récréatifs et culturels,102.30000305175781,2019,094,09,groupe
+Services récréatifs et culturels,102.9000015258789,2020,094,09,groupe
+Services récréatifs et culturels,103.19999694824219,2021,094,09,groupe
+"Journaux, livres et articles de papeterie",100.0,2017,095,09,groupe
+"Journaux, livres et articles de papeterie",100.30000305175781,2018,095,09,groupe
+"Journaux, livres et articles de papeterie",100.5,2019,095,09,groupe
+"Journaux, livres et articles de papeterie",100.80000305175781,2020,095,09,groupe
+"Journaux, livres et articles de papeterie",101.4000015258789,2021,095,09,groupe
+Forfaits touristiques,100.0,2017,0960,096,groupe
+Forfaits touristiques,101.30000305175781,2018,0960,096,groupe
+Forfaits touristiques,108.30000305175781,2019,0960,096,groupe
+Forfaits touristiques,110.0999984741211,2020,0960,096,groupe
+Forfaits touristiques,110.30000305175781,2021,0960,096,groupe
+Enseignement,100.0,2017,10,,division
+Enseignement,102.5999984741211,2018,10,,division
+Enseignement,106.19999694824219,2019,10,,division
+Enseignement,109.0999984741211,2020,10,,division
+Enseignement,110.80000305175781,2021,10,,division
+Enseignement préélémentaire et primaire,100.0,2017,101,10,groupe
+Enseignement préélémentaire et primaire,104.30000305175781,2018,101,10,groupe
+Enseignement préélémentaire et primaire,110.30000305175781,2019,101,10,groupe
+Enseignement préélémentaire et primaire,113.80000305175781,2020,101,10,groupe
+Enseignement préélémentaire et primaire,117.0,2021,101,10,groupe
+Enseignement secondaire,100.0,2017,102,10,groupe
+Enseignement secondaire,102.19999694824219,2018,102,10,groupe
+Enseignement secondaire,105.19999694824219,2019,102,10,groupe
+Enseignement secondaire,107.5999984741211,2020,102,10,groupe
+Enseignement secondaire,108.5,2021,102,10,groupe
+Enseignement postsecondaire non supérieur,100.0,2017,103,10,groupe
+Enseignement postsecondaire non supérieur,101.5,2018,103,10,groupe
+Enseignement postsecondaire non supérieur,102.5999984741211,2019,103,10,groupe
+Enseignement postsecondaire non supérieur,104.30000305175781,2020,103,10,groupe
+Enseignement postsecondaire non supérieur,104.69999694824219,2021,103,10,groupe
+Enseignement supérieur,100.0,2017,104,10,groupe
+Enseignement supérieur,100.80000305175781,2018,104,10,groupe
+Enseignement supérieur,102.5,2019,104,10,groupe
+Enseignement supérieur,105.19999694824219,2020,104,10,groupe
+Enseignement supérieur,104.19999694824219,2021,104,10,groupe
+Enseignement non défini par niveau,100.0,2017,105,10,groupe
+Enseignement non défini par niveau,100.0,2018,105,10,groupe
+Enseignement non défini par niveau,100.80000305175781,2019,105,10,groupe
+Enseignement non défini par niveau,104.5999984741211,2020,105,10,groupe
+Enseignement non défini par niveau,108.4000015258789,2021,105,10,groupe
+Restaurants et hôtels,100.0,2017,11,,division
+Restaurants et hôtels,101.0999984741211,2018,11,,division
+Restaurants et hôtels,102.5,2019,11,,division
+Restaurants et hôtels,103.5999984741211,2020,11,,division
+Restaurants et hôtels,104.5999984741211,2021,11,,division
+Services de restauration,100.0,2017,111,11,groupe
+Services de restauration,101.19999694824219,2018,111,11,groupe
+Services de restauration,103.0,2019,111,11,groupe
+Services de restauration,104.69999694824219,2020,111,11,groupe
+Services de restauration,106.0,2021,111,11,groupe
+Services d'hébergement,100.0,2017,112,11,groupe
+Services d'hébergement,100.9000015258789,2018,112,11,groupe
+Services d'hébergement,100.19999694824219,2019,112,11,groupe
+Services d'hébergement,97.5999984741211,2020,112,11,groupe
+Services d'hébergement,97.0,2021,112,11,groupe
+Biens et services divers,100.0,2017,12,,division
+Biens et services divers,101.9000015258789,2018,12,,division
+Biens et services divers,102.5999984741211,2019,12,,division
+Biens et services divers,104.0,2020,12,,division
+Biens et services divers,106.4000015258789,2021,12,,division
+Soins corporels,100.0,2017,121,12,groupe
+Soins corporels,102.4000015258789,2018,121,12,groupe
+Soins corporels,103.4000015258789,2019,121,12,groupe
+Soins corporels,103.9000015258789,2020,121,12,groupe
+Soins corporels,107.0,2021,121,12,groupe
+Effets personnels non classés ailleurs,100.0,2017,123,12,groupe
+Effets personnels non classés ailleurs,101.4000015258789,2018,123,12,groupe
+Effets personnels non classés ailleurs,103.0,2019,123,12,groupe
+Effets personnels non classés ailleurs,105.30000305175781,2020,123,12,groupe
+Effets personnels non classés ailleurs,108.69999694824219,2021,123,12,groupe
+Assurance,100.0,2017,125,12,groupe
+Assurance,99.9000015258789,2018,125,12,groupe
+Assurance,99.69999694824219,2019,125,12,groupe
+Assurance,104.19999694824219,2020,125,12,groupe
+Assurance,104.19999694824219,2021,125,12,groupe
+Services financiers,100.0,2017,126,12,groupe
+Services financiers,100.5,2018,126,12,groupe
+Services financiers,101.0999984741211,2019,126,12,groupe
+Services financiers,101.30000305175781,2020,126,12,groupe
+Services financiers,101.80000305175781,2021,126,12,groupe
+Autres services,100.0,2017,127,12,groupe
+Autres services,103.30000305175781,2018,127,12,groupe
+Autres services,103.4000015258789,2019,127,12,groupe
+Autres services,103.4000015258789,2020,127,12,groupe
+Autres services,103.5,2021,127,12,groupe
+Indice général,100.0,2017,,,total
+Variation (en %),100.0,2017,,,total
+Indice général,101.5999984741211,2018,,,total
+Variation (en %),1.600000023841858,2018,,,total
+Indice général,101.80000305175781,2019,,,total
+Variation (en %),0.19685038924217224,2019,,,total
+Indice général,102.5,2020,,,total
+Variation (en %),0.6876227855682373,2020,,,total
+Indice général,103.9000015258789,2021,,,total
+Variation (en %),1.3658536672592163,2021,,,total
